@@ -1,2 +1,2 @@
 # ML-Project
-ML Capstone Project
+MovieLens Capstone Project
